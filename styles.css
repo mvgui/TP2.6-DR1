@@ -1,0 +1,15 @@
+.posicao {
+  width: 100%;
+  height: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+header {
+  background-color: red;
+}
+#color {
+  background-color: orange !important;
+}
+#fundo {
+  background-color: yellow !important;
+}
